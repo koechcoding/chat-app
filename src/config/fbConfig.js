@@ -1,13 +1,13 @@
-import firebase from 'firebase/app';
-import 'firebase/firestore';
-import 'firebase/auth';
+import  firebase from 'firebase/compat/app';
+import 'firebase/compat/firestore';
+import 'firebase/compat/auth';
 
 const config = {
   apiKey: "AIzaSyAdjpFTwDXuBgmSMdWR1HqNmb4jnAD33e4",
-  authDomain: "ron-chatapp.firebaseapp.com",
-  databaseURL: "https://ron-chatapp.firebaseio.com",
-  projectId: "ron-chatapp",
-  storageBucket: "ron-chatapp.appspot.com",
+  authDomain: "koech-chatapp.firebaseapp.com",
+  databaseURL: "https://koech-chatapp.firebaseio.com",
+  projectId: "koech-chatapp",
+  storageBucket: "koech-chatapp.appspot.com",
   messagingSenderId: "1082888267477"
 };
 

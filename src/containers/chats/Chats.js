@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './chats.scss';
-import Input from '../../components/chat/Input';
+import Input from '../../components/chat/input';
 import { connect } from 'react-redux';
 import { getChats } from '../../redux/actions/chatActions';
 import Notifications from './Notifications';
