@@ -6,7 +6,7 @@ const config = {
   apiKey: "AIzaSyAdjpFTwDXuBgmSMdWR1HqNmb4jnAD33e4",
   authDomain: "koech-chatapp.firebaseapp.com",
   databaseURL: "https://koech-chatapp.firebaseio.com",
-  projectId: "koech-chatapp",
+  projectId: "chat-f13e4",
   storageBucket: "koech-chatapp.appspot.com",
   messagingSenderId: "1082888267477"
 };
